@@ -1,0 +1,7 @@
+# TESTING >> Testing.txt
+git init
+ls
+
+
+
+ECHO # TESTING
